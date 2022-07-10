@@ -7,7 +7,7 @@ class Spinner extends Component {
 			<Fragment>
 				<div>
 					<img
-						src="./spinner.gif"
+						src={spinner}
 						alt="loading..."
 						style={{ width: '300px', margin: 'auto', display: 'block' }}
 					></img>

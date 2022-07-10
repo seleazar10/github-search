@@ -376,6 +376,21 @@ table th {
 	margin-right: 0.6rem;
 }
 
+.submitBtn{
+	display: block;
+	width: 100%;
+	background-color: black;
+	color: white;
+
+}
+
+.clearBtn{
+	display: block;
+	width: 100%;
+	background-color: rgb(73, 17, 17);
+	color: white;
+}
+
 /* Mobile Styles */
 @media (max-width: 700px) {
 	.hide-sm {
